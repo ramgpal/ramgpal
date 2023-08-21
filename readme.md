@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](./1.jpg)
+[![MasterHead](./1.jpg)](./1.jpg)
 <h1 align="center">Hi 👋, I'm Ram G Pal</h1>
 <h3 align="center">A passionate Progrmmer, Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="./Programmer.gif">
