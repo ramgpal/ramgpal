@@ -1,4 +1,4 @@
-<img alt="Thanks for visiting my profile" width="100%" src="./1.jpg" />
+<img alt="Thanks for visiting my profile" width="100%" src="./1.webp" />
 <hr>
 <h1 align="center">Hi 👋, I'm Ram G Pal</h1>
 <h3 align="center">A passionate Progrmmer, Full Stack developer from India</h3>
