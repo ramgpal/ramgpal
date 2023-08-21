@@ -1,4 +1,4 @@
-<img alt="Thanks for visiting my profile" width="100%" src="./1.webp" />
+<img alt="Thanks for visiting my profile" width="100%" src="./1 - Copy.jpg" />
 <hr>
 <h1 align="center">Hi 👋, I'm Ram G Pal</h1>
 <h3 align="center">A passionate Progrmmer, Full Stack developer from India</h3>
@@ -19,10 +19,10 @@
 - ⚡ Fun fact **Always a learner**
 <h3 align="left">Track My Progress:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/ramgpal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ramgpal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ramgpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramgpal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ramgpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramgpal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ramgpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ramgpal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ramgpal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ramgpal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ramgpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramgpal" height="30" width="40" /></a>
 </p>
 <h3 align="left">Social:</h3>
 <p align="left">
