@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/ramgpal5" target="blank"><img src="https://img.shields.io/twitter/follow/ramgpal5?logo=twitter&style=for-the-badge" alt="ramgpal5" /></a> </p>
 
-- 🌱 I’m currently learning **DSA with Java, Core Computer Fundamentals, Backend Developement**
+- 🌱 Improving myself day by day, either it's about development or problem solving.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ramgpal](https://github.com/ramgpal)
 
-- 💬 Ask me about **MERN Stack, Competetive Programming & CS Fundamentals**
+- 💬 Ask me about **Full Stack Development, Competetive Programming & CS Fundamentals**
 
 - 📫 How to reach me **ramgpal912@gmail.com**
 
